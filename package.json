@@ -1,21 +1,21 @@
 {
   "name": "boilerplate",
   "version": "1.0.0",
-  "description": "a property management and booking project",
+  "description": "an udemy reactjs tutorial",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/samyounger/the_neuk_front.git"
+    "url": "git+https://github.com/samyounger/learnReact.git"
   },
   "author": "Sam Younger",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/samyounger/the_neuk_front/issues"
+    "url": "https://github.com/samyounger/learnReact/issues"
   },
-  "homepage": "https://github.com/samyounger/the_neuk_front#readme",
+  "homepage": "https://github.com/samyounger/learnReact#readme",
   "dependencies": {
     "express": "^4.15.2",
     "react": "^0.14.7",
