@@ -3,7 +3,7 @@ var React = require("react");
 var About =  (props) => {
   return (
     <div>
-      <h1 className="text-center">About</h1>
+      <h1 className="text-center page-title">About</h1>
 
       <p>This is a ReactJS application developed under the tutelage of Andrew Meade, his Udemy video tutorial.</p>
       <a href="https://www.udemy.com/the-complete-react-web-app-developer-course" target="_blank">Link to Andrew's tutorial</a>
